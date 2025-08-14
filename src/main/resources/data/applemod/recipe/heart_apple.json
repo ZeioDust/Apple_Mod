@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:netherite_block",
+    "X": "minecraft:apple",
+    "G": "minecraft:nether_star",
+    "F": "minecraft:heavy_core",
+    "S": "minecraft:redstone_block"
+  },
+  "pattern": [
+    "#F#",
+    "SXS",
+    "GSG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "applemod:heart_apple"
+  }
+}

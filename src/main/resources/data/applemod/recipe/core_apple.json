@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:heavy_core",
+    "Z": "minecraft:breeze_rod",
+    "X": "minecraft:apple"
+  },
+  "pattern": [
+    "Z#Z",
+    "ZXZ",
+    "ZZZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "applemod:core_apple"
+  }
+}

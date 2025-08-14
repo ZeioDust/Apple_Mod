@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:emerald_ore",
+    "X": "minecraft:apple",
+    "Z": "minecraft:deepslate_emerald_ore"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#Z#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "applemod:emerald_apple"
+  }
+}

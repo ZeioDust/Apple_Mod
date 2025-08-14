@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:nether_star",
+    "X": "minecraft:apple",
+    "Z": "minecraft:wither_skeleton_skull",
+    "V": "minecraft:soul_sand"
+  },
+  "pattern": [
+    "Z#Z",
+    "VXV",
+    " V "
+  ],
+  "result": {
+    "count": 1,
+    "id": "applemod:wither_apple"
+  }
+}
